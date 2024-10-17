@@ -1,0 +1,15 @@
+In this project, we used for:
+a) Cleaning:
+	1. Python
+
+b) Exploration and Querying:
+	1. SQL Server Management Studio
+	2. PostgreSQL
+
+c) Visualization:
+	1. Power BI Desktop
+
+------------------------------------------------------------
+Team members:
+Abdelrahman Mahmoud Ibrahim
+Mohamed Ahmed Saad
